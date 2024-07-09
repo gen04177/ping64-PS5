@@ -20,7 +20,7 @@ This is a simple tool developed in C, designed to be used on a PS5 with Jailbrea
 6. cd `/data`
 7. Run the command `hbldr ping4.elf 192.168.0.1` (or `hbldr ping4.elf -c 10 192.168.0.1`).
 
-Ping4 don´t resolve names only IPv4 addresses.
+Ping4 don´t resolve names only numeric IPv4 addresses.
 
 ## Credits
-Credits to J. Tornblom for the SDK, SDL2 port for PS5, and other payloads.
+Credits to J. Tornblom for the SDK and other payloads.
