@@ -19,6 +19,7 @@ This is a simple tool developed in C, designed to be used on a PS5 with Jailbrea
 5. Execute `telnet [PS5-IP] 2323`.
 6. cd `/data`
 7. Run the command, e.g. `hbldr ping64.elf -4 192.168.0.1` or `hbldr ping64.elf -6 -c 10 2001:4860:4860::8888`.
+8. `cat /user/temp/ping64.log` (optional)
 
 Ping64 don´t resolve names only numeric IPv4/IPv6 addresses.
 
