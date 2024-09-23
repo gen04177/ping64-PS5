@@ -1,7 +1,7 @@
 # ping64 PS5
 
 ## Description
-This is a simple tool developed in C, designed to be used on a PS5 with Jailbreak firmware (3.xx-4.xx).
+This is a simple tool developed in C, designed to be used on a jailbroken PS5 (1.xx-4.xx).
 
 
 
@@ -24,4 +24,4 @@ This is a simple tool developed in C, designed to be used on a PS5 with Jailbrea
 Ping64 don´t resolve names only numeric IPv4/IPv6 addresses.
 
 ## Credits
-Credits to J. Tornblom for the SDK and other payloads.
+J. Tornblom - SDK and required payloads.
