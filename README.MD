@@ -1,7 +1,7 @@
 # ping64 PS5
 
 ## Description
-This is a simple tool developed in C, designed to be used on a jailbroken PS5
+This is a simple tool developed in C, designed to be used on a jailbroken PS5 for network diagnostics.
 
 
 
